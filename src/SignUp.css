@@ -1,0 +1,20 @@
+.signup-page {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative; /* Add relative positioning */
+  }
+  
+  .signup-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+    position: absolute; /* Add absolute positioning */
+    top: 50%; /* Position from top */
+    left: 50%; /* Position from left */
+    transform: translate(-50%, -50%); /* Center the form */
+  }
+  
